@@ -8,3 +8,7 @@ node_modules/
 # Cypress
 cypress/videos/
 cypress/screenshots/
+
+# mochawesome
+mochawesome-report/
+reports/
