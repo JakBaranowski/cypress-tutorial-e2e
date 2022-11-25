@@ -1,2 +1,9 @@
+# Node
 node_modules/
+
+# Code
 .vscode/
+*.code-workspace
+
+# Cypress
+cypress/videos/
